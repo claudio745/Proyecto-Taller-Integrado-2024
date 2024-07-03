@@ -30,3 +30,5 @@ Werkzeug==3.0.3
 ![image](https://github.com/claudio745/Proyecto-Taller-Integrado-2024/assets/74275767/15166f09-20c8-43dd-8baa-9f501889f6c1)
 
 
+## Alojamiento del proyecto
+https://claudio745.pythonanywhere.com/
